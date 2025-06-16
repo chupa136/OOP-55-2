@@ -4,21 +4,21 @@ git status
 git add.
 git commit -m "message"
 git push origin master
-git remote add origin https://github.com/chupa136/OOP-55-2-laptop.git
+git remote add origin https://github.com/chupa136/OOP-55-2.git
 git remote set-url origin https://github.com/chupa136/OOP-55-2
 git rm -r --cached name_dir | delete directory in repositories
 
 commands for terminal  |  add Git Bash in terminal
-clear | clear all terminal
-cd dir_name cd../    | command for change directory
-cd../ | back (in directory)
-ls  | see files in directory
-ls -a | see all directory even he hidden
-mkdir | command for create directory
-touch file_name | create file
+clear                  | clear all terminal
+cd dir_name cd../      | command for change directory
+cd../                  | back (in directory)
+ls                     | see files in directory
+ls -a                  | see all directory even he hidden
+mkdir                  | command for create directory
+touch file_name        | create file
 
-feat:    | для фичей
-update:  | для обновлений в файлах проекта
-delete:  | для того чтобы описать что ты удалил
-fix:     | для описания фикса
-hot-fix: | для исправления на проекте
+feat:                  | для фичей
+update:                | для обновлений в файлах проекта
+delete:                | для того чтобы описать что ты удалил
+fix:                   | для описания фикса
+hot-fix:               | для исправления на проекте
